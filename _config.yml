@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bbb_profile.png"
+  name             : "QWQ-Knight"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Potato never gives up."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : https://QWQ-Knight.github.io
