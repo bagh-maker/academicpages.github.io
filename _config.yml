@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     :QWQ-Knight
+description              :a student ofJiangXi Technology and Science University   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://QWQ-Knight.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://QWQ-Knight.github.io
   email            : "none@example.org" 
 
   # Academic websites
@@ -56,31 +56,31 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
+  artstation       : QWQ-Knight
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
+  facebook         : QWQ-Knight
+  flickr           : QWQ-Knight
+  foursquare       : QWQ-Knight
+  goodreads        : QWQ-Knight
+  google_plus      : QWQ-Knight
+  keybase          : QWQ-Knight
+  instagram        : QWQ-Knight
+  lastfm           : QWQ-Knight
+  linkedin         : QWQ-Knight
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
+  pinterest        : QWQ-Knight
+  soundcloud       : QWQ-Knight
+  steam            : QWQ-Knight
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  tumblr           : QWQ-Knight
+  twitter          : QWQ-Knight 
+  vine             : QWQ-Knight
+  weibo            : QWQ-Knight
+  wikipedia        : QWQ-Knight
+  xing             : QWQ-Knight
+  youtube          : QWQ-Knight
+  zhihu            : QWQ-Knight
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -138,18 +138,18 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : QWQ-Knight
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 :  bbb_profile.png
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   :QWQ-Knight
   links: # An array of links to social media profiles
 
 
